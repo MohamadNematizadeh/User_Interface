@@ -5,4 +5,4 @@
 
 # Assignment 17
 1. ## **calcuator**
-![screen shot](s\1.png)
+![screen shot](https://github.com/Mohammadnematizade/Python_Qt/blob/main/Python_Qt/session17/calcuator/s/2.png)
