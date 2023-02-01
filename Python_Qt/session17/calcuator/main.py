@@ -60,16 +60,16 @@ def btn_equal():
     b = float(main_window.textbox.text())
     if cehk in globals():
         if cehk == '+':
-            c = a + b
+            b = a + b
         elif cehk == '-':
-            c = a - b
+            b = a - b
         elif cehk == '*':
-            c = a * b
+            b = a * b
         elif cehk == '/':
-            c = a / b
+            b = a / b
         else:
-            c = 0
-    main_window.textbox.setText(str(c))  
+            b = 0
+    main_window.textbox.setText(str(b))  
 
 def Ca():
     main_window.textbox.setText('')
