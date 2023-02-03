@@ -5,3 +5,9 @@
 ## Assignment 17
 1. ## **calcuator**
 ![screen shot](https://github.com/Mohammadnematizade/Python_Qt/blob/main/Python_Qt/session17/calcuator/s/2.png)
+# Assignment 18
+1. ## **TicTacToe**
+![screen shot](https://github.com/Mohammadnematizade/Python_Qt/blob/main/se18/TicTacToe/img/1.png)
+![screen shot](https://github.com/Mohammadnematizade/Python_Qt/blob/main/se18/TicTacToe/img/2.png)
+![screen shot](https://github.com/Mohammadnematizade/Python_Qt/blob/main/se18/TicTacToe/img/3.png)
+![screen shot](https://github.com/Mohammadnematizade/Python_Qt/blob/main/se18/TicTacToe/img/4.png)
